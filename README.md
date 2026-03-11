@@ -39,6 +39,13 @@ T = periodo total
 R1 = resistencia 1  
 R2 = resistencia 2  
 C = capacitor
+
+<img src="https://github.com/user-attachments/assets/da14cc16-7bed-4ab9-adeb-8a8abc78c49c" alt="Descripción" width="700">
+
+
+
+https://youtube.com/shorts/wdKRmZBDoWY?si=31rv3fe2yFyQoYHq
+
  
 Para este laboratorio se calculó un periodo cercano a **2 segundos**.
  
@@ -82,6 +89,9 @@ El LED se conecta a la salida para visualizar el resultado de la operación lóg
 |1|0|0|
 |1|1|1|
  
+
+
+
  
 # Punto 3: Conversor Binario a Hexadecimal
  
@@ -105,4 +115,19 @@ Las compuertas lógicas procesan las señales y activan los segmentos correspond
 # Conclusión
  
 Este laboratorio permitió comprender el funcionamiento de los circuitos digitales básicos, incluyendo el uso del temporizador 555, compuertas lógicas y la conversión de números binarios a su representación en un display de 7 segmentos.
- 
+
+# Segunda seccion 
+## Funcionalidades de multimetro digital, Osciloscopio, Fuente de alimentacion de laboratorio
+
+## Multimetro Digital
+Multímetro Digital se utiliza para medir magnitudes eléctricas como:Voltaje (V)Corriente (A)Resistencia (Ω)ContinuidadFrecuencia o diodosEs esencial para verificar circuitos eléctricos o electrónicos.
+
+## Osciloscopio 
+
+Osciloscopio Permite visualizar señales eléctricas en gráficos temporales, mostrando:Forma de la señalFrecuenciaAmplitud del voltajeRuido en la señalIdeal para analizar cambios en señales eléctricas dentro de un circuito.
+
+## Fuente de Alimentación de Laboratorio 
+Fuente de Alimentación de Laboratorio Proporciona voltaje y corriente regulados a un circuito, siendo útil para:Suministrar energía eléctrica reguladaAjustar parámetros según el circuitoAlimentar prototipos o pruebas electrónicasFacilita la prueba de circuitos sin necesidad de baterías.
+
+
+
