@@ -122,12 +122,29 @@ Este laboratorio permitió comprender el funcionamiento de los circuitos digital
 ## Multimetro Digital
 Multímetro Digital se utiliza para medir magnitudes eléctricas como:Voltaje (V)Corriente (A)Resistencia (Ω)ContinuidadFrecuencia o diodosEs esencial para verificar circuitos eléctricos o electrónicos.
 
+
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/eb4501cc-b64c-4d85-a2eb-60e2ec5e74fb" />
+
+
+
+
+
 ## Osciloscopio 
 
 Osciloscopio Permite visualizar señales eléctricas en gráficos temporales, mostrando:Forma de la señalFrecuenciaAmplitud del voltajeRuido en la señalIdeal para analizar cambios en señales eléctricas dentro de un circuito.
+
+
+
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/1fb19a79-f6f9-405d-80e9-c29dbefdaf04" />
+
+
+
+
+
 
 ## Fuente de Alimentación de Laboratorio 
 Fuente de Alimentación de Laboratorio Proporciona voltaje y corriente regulados a un circuito, siendo útil para:Suministrar energía eléctrica reguladaAjustar parámetros según el circuitoAlimentar prototipos o pruebas electrónicasFacilita la prueba de circuitos sin necesidad de baterías.
 
 
 
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/0108ea17-3b5d-4d9d-bdaa-b7582f9e226b" />
