@@ -103,11 +103,23 @@ El LED se conecta a la salida para visualizar el resultado de la operación lóg
  
 
 https://youtube.com/shorts/2ls1vf_4Y5M?si=BQRmy9Gbf3ClU1QR
+
+
 https://youtube.com/shorts/e1qEEe6-sPY?si=fx09oJsS7fnzZCmK
+
+
  https://youtube.com/shorts/-js6MhO4Y_I?si=oDXiBx-IHa_EZIvI
+
+ 
 https://youtube.com/shorts/Orhn9mD79ok?si=O8f3l8NBUT5ER2lO
+
+
 https://youtube.com/shorts/wmGTeyMNtfk?si=_jRiR13gHBBwZWza
+
+
  https://youtu.be/KWWCaMD18tQ?si=frk7Z4AkQh_6ThMh
+
+ 
 # Punto 3: Conversor Binario a Hexadecimal
  
 ## Objetivo
