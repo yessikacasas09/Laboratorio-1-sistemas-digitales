@@ -5,8 +5,7 @@
 - Sergio Esteban Alarcon Valbuena
 - Angel Gabriel Brito Barrero
 
-
-## ## Introducción
+## Introducción
 
 En este laboratorio se estudiaron algunos conceptos básicos de sistemas digitales y electrónica, mediante la construcción y análisis de diferentes circuitos. Se implementó un oscilador astable con el temporizador 555, se analizaron compuertas lógicas y se diseñó un conversor de binario a hexadecimal con display de 7 segmentos. Además, se revisó el uso de instrumentos de laboratorio como el multímetro digital, el osciloscopio y la fuente de alimentación, los cuales son fundamentales para medir, analizar y alimentar circuitos electrónicos.
 
