@@ -51,6 +51,13 @@ C = capacitor
 
 https://youtube.com/shorts/wdKRmZBDoWY?si=31rv3fe2yFyQoYHq
 
+
+
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/e3a0e809-1974-40db-8b83-87ccc07e1b33" />
+
+
+
+
  
 Para este laboratorio se calculó un periodo cercano a **2 segundos**.
  
@@ -95,9 +102,12 @@ El LED se conecta a la salida para visualizar el resultado de la operación lóg
 |1|1|1|
  
 
-
-
- 
+https://youtube.com/shorts/2ls1vf_4Y5M?si=BQRmy9Gbf3ClU1QR
+https://youtube.com/shorts/e1qEEe6-sPY?si=fx09oJsS7fnzZCmK
+ https://youtube.com/shorts/-js6MhO4Y_I?si=oDXiBx-IHa_EZIvI
+https://youtube.com/shorts/Orhn9mD79ok?si=O8f3l8NBUT5ER2lO
+https://youtube.com/shorts/wmGTeyMNtfk?si=_jRiR13gHBBwZWza
+ https://youtu.be/KWWCaMD18tQ?si=frk7Z4AkQh_6ThMh
 # Punto 3: Conversor Binario a Hexadecimal
  
 ## Objetivo
@@ -116,7 +126,54 @@ Esto corresponde a los números decimales de **0 a 15**.
  
 Las compuertas lógicas procesan las señales y activan los segmentos correspondientes del display.
  
- 
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/cbdc7225-bab3-41ed-b4b8-56ae63fc7f2f" />
+
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/11463432-af16-4035-acd8-c3037ecda4cf" />
+
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/8f24f0ef-af91-46a7-a17f-0f86cd64c895" />
+
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/e29ba3fc-0690-4056-b97e-2e345a5c5632" />
+
+
+ <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/5444955f-bd8b-48ad-965c-877c2284a6b8" />
+
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/23b88bc0-e8e3-48b0-a392-1e7309b50b6f" />
+
+
+ <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/281526e1-20f8-4335-96e8-cb2df829f8ef" />
+
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/5470da74-0e30-4512-ad42-75ff1fabf35a" />
+
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/de493165-0518-488a-a332-dfc1d0259e8b" />
+
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/fb6f1b93-53ef-4eba-8117-034093c22be5" />
+
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/c6175d2a-27e5-46bf-85db-1029b13421d5" />
+
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/b1657d76-2cb5-4018-9733-47eb0a2b0632" />
+
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/8e756404-765a-40d3-882d-f36e1cc40aa9" />
+
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/6ee10379-2f12-43fa-807d-6b8b89cc42c0" />
+
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/2b9672b4-9a8e-45e2-91b6-4755e791bee8" />
+
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/e4c5f4e9-225f-40e3-b042-392477d0639d" />
+
+
 # Conclusión
  
 Este laboratorio permitió comprender el funcionamiento de los circuitos digitales básicos, incluyendo el uso del temporizador 555, compuertas lógicas y la conversión de números binarios a su representación en un display de 7 segmentos.
